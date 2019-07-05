@@ -14,4 +14,4 @@ tracks  oops
 distibute test add con
 
 
-createing a new brach is quick.
+createing a new brach is quick & simple.
